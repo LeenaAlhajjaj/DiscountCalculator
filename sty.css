@@ -1,0 +1,40 @@
+body{
+  width: 100;
+  margin: 0;
+
+text-align: center;
+  background: #CEBEBE;
+
+}
+
+h1.welcometxt{
+margin-top:5%;
+text-align: center;
+font-size:40px;
+
+
+}
+.border{
+background:#F5F1ED;
+border-radius: 5px;
+margin: 0;
+margin-bottom: 10px;
+margin-top:4%;
+width:50%;
+margin-left:25%;
+border:solid
+}
+
+
+input[type=submit] {
+  margin-top:5%;
+  width:20%;
+  height: 20em;
+  padding: 5px 5px;
+  font-size: 16px;
+}
+
+form{
+
+  font-size: 18px;
+}
